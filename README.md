@@ -1,2 +1,2 @@
-# -Python-program-that-can-encrypt-and-decrypt-text-using-the-Caesar-Cipher-algorithm.-
-Create a Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption
+# -Python-program-that-encrypt-and-decrypt-text-using-the-Caesar-Cipher-algorithm.-
+A Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption
